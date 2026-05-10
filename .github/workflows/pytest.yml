@@ -23,7 +23,7 @@ jobs:
       ## Use the public `checkout` action  in version v4
       ## to checkout the existing code in the repository
     - uses: actions/checkout@v4
-      ## Use the public `setup-python` actoin  in version v5
+      ## Use the public `setup-python`  actoin  in version v5
       ## to install python on the Ubuntu based environment.
       ## Additionally, it ensures to loop through all
       ## the defined Python versions.
